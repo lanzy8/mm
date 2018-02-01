@@ -10,10 +10,14 @@ public class Test {
 		System.out.println("测试");
 		System.out.println("测试2222");
 		System.out.println("33333");
+<<<<<<< HEAD
 		System.out.println("44444");
 		
 		System.out.println("您好呀亲爱额小西路同学你们你在在哪里呢");
 		
+=======
+		System.out.println("999999");
+>>>>>>> 4bc8a568a26f5e9a6bba20c93ec048ee93170263
 		
 		
 
