@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("测试");
 		System.out.println("测试2222");
 		System.out.println("33333");
+		System.out.println("999999");
 		
 		
 
